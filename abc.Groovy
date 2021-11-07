@@ -1,2 +1,3 @@
-def call(name)
-    print("Hi ${name}, Welcome to shared libs")
+def call(name){
+    echo ("Hi ${name}, Welcome to shared libs")
+}
